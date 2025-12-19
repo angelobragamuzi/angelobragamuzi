@@ -1,10 +1,8 @@
 ### 💻 Dev Flutter & Dart
 
-![Banner](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_PRINCIPAL&theme=tokyonight)
-
 | Status | Top Techs |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=angelobragamuzi&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelobragamuzi&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
@@ -14,4 +12,9 @@
 ---
 
 **Activity**
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelobragamuzi&theme=tokyonight&hide_border=true)
+
+---
+
+**Contato**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-muzi-8b2872223/)
