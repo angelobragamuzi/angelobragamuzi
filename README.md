@@ -1,4 +1,4 @@
-## 💻 Desenvolvedor Frontend & Mobile
+## Desenvolvedor Frontend & Mobile
 
 Sou desenvolvedor **frontend-mobile** com foco em **aplicações Flutter/Dart multi-instâncias e dinâmicas**, voltadas para escalabilidade, performance e uma experiência de usuário consistente.
 
