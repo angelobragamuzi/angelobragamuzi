@@ -16,7 +16,6 @@ Busco sempre desenvolver soluções **escaláveis, reutilizáveis e bem estrutur
 ---
 
 | Most Used Languages |
-| :--- | :--- |
 | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelobragamuzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true) 
 
 ---
