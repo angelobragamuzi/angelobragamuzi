@@ -1,6 +1,6 @@
-## Desenvolvedor Frontend & Mobile
+## Desenvolvedor FullStack
 
-Sou desenvolvedor **frontend-mobile** com foco em **aplicações Flutter/Dart multi-instâncias e dinâmicas**, voltadas para escalabilidade, performance e uma experiência de usuário consistente.
+Sou desenvolvedor **FullStack** com foco em **aplicações Flutter/Dart multi-instâncias e dinâmicas**, voltadas para escalabilidade, performance e uma experiência de usuário consistente.
 
 Possuo experiência com **persistência de dados e bancos no Flutter/Dart**, além do desenvolvimento de aplicações **integradas ao Firebase** (Authentication, Database, Storage e serviços em tempo real).
 
