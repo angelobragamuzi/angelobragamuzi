@@ -8,22 +8,6 @@ Currently working on solutions in **public management and sports management**, d
 
 ---
 
-### Experience
-
-**Mobile Developer @ Versatec**
-- Development and continuous evolution of mobile applications using Flutter
-- Building solutions for **public and sports management systems**
-- Implementation of scalable architectures and modular structures
-- Integration with APIs and real-time data handling
-- Focus on performance, maintainability, and production environments
-
-**Mobile Development Intern**
-- Worked on Flutter applications development
-- Implemented features and UI components
-- API integration and usability-focused interfaces
-
----
-
 ### Technical Skills
 
 #### Mobile Development & Publishing
