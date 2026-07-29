@@ -1,10 +1,10 @@
-## Mobile Engineer (Flutter | Dart)
+## Mobile & Frontend Engineer (Flutter | Dart | React | Next.js | TypeScript)
 
-Mobile Engineer with strong focus on **Flutter and Dart**, building and maintaining **production-ready mobile applications** used in real-world operational environments.
+Mobile Engineer with strong focus on **Flutter and Dart**, building and maintaining **production-ready mobile applications** used in real-world operational environments. I've also expanded into **frontend development**, working with **React, Next.js, and TypeScript** to build web-based management platforms.
 
 I have hands-on experience developing complete applications, from **architecture design (offline-first / local-first)** to **API integration**, always aiming for **performance, scalability, and clean structure**.
 
-Currently working on solutions in **public management and sports management**, delivering apps that handle real user scenarios and data-driven workflows.
+Currently working on solutions in **public management and sports management**, delivering mobile apps and web platforms that handle real user scenarios and data-driven workflows.
 
 ---
 
@@ -19,6 +19,13 @@ Currently working on solutions in **public management and sports management**, d
 ![Xcode](https://img.shields.io/badge/Xcode-%231575F9?style=flat-square&logo=xcode&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-%2334A853?style=flat-square&logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-%230D96F6?style=flat-square&logo=appstore&logoColor=white)
+
+#### Frontend Development
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### State Management
 ![BLoC](https://img.shields.io/badge/BLoC-%23000000?style=flat-square)
@@ -55,7 +62,7 @@ Currently working on solutions in **public management and sports management**, d
 
 ### About Me
 
-I focus on building **robust, scalable, and well-structured mobile applications**, combining **solid architecture, clean code, and user-centered design**.
+I focus on building **robust, scalable, and well-structured applications**, both mobile and web, combining **solid architecture, clean code, and user-centered design**.
 
 I value real-world impact, working on products that are actually used in production and solve concrete problems.
 
